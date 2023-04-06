@@ -1,5 +1,23 @@
-header{
+cabeçalho{
     background: #F5F5F5;
     color: #A10AA4;
 
+}
+
+.cabeçalho{
+    display: flex;
+    font-size: 60px;
+}
+
+.logo{
+    width: 60px;
+    position: relative;
+    left: 300px;
+    top: 35px;
+}
+
+.item{
+    color: red;
+    position: relative;
+    left: 300px;
 }
